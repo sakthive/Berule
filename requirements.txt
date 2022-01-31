@@ -1,5 +1,2 @@
 statsmodels
-bloomberg.analysts.utils
-bloomberg.analysts.pgood
-bloomberg.analysts.bdh
 plotly
